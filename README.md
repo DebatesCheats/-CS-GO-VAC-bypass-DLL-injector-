@@ -1,5 +1,5 @@
 # CSGOInjector
-Bypass CSGO Trusted Mode
+Undtected CSGO cheat
 
 [Download here](https://github.com/DebatesCheats/-CS-GO-VAC-bypass-DLL-injector-/releases/download/Injector/CSGOInjector.exe)
 
